@@ -13,17 +13,6 @@
 - [Stefan Anon's Grand Flotilla Discord Server](https://discord.gg/aG5BEyW)
 
 
-## Patch notes
-
-### Patch 2.8
-- [https://stellaris.paradoxwikis.com/Patch_2.8](https://stellaris.paradoxwikis.com/Patch_2.8)
-- [https://www.youtube.com/watch?v=nVq2DFAod00](https://www.youtube.com/watch?v=nVq2DFAod00)
-
-### Patch 2.7
-- [https://stellaris.paradoxwikis.com/Patch_2.7](https://stellaris.paradoxwikis.com/Patch_2.7)
-- [https://www.youtube.com/watch?v=GtjrbPxqRGU](https://www.youtube.com/watch?v=GtjrbPxqRGU)
-
-
 ## Civic guides
 
 - [Stefan's Comprehensive Civics Tier List 2.6.2](https://cdn.discordapp.com/attachments/598211045332484148/692818626193129504/Ultimate_Tier_List_Federations_III.png)
@@ -45,28 +34,44 @@
 
 - https://cdn.discordapp.com/attachments/598211045332484148/709190717683138650/Traits_Feds_Complete.png
 
-- 「Stellaris」 Traits Tier List for **Organics** - Ultimate Tierlists [7/https://www.youtube.com/watch?v=J3WOvXPvTM48] 
+- 「Stellaris」 Traits Tier List for **Organics** - Ultimate Tierlists [7/8] 
   - [https://www.youtube.com/watch?v=-VrM722vlnU](https://www.youtube.com/watch?v=-VrM722vlnU)
 
 - 「Stellaris」 Traits Tier List for **Machines & Robots** - Ultimate Tierlists [8/8] 
   - [https://www.youtube.com/watch?v=tE3G3pKodWI](https://www.youtube.com/watch?v=tE3G3pKodWI)
+
 
 ## Technology guides
 
 - Interactive technology trees:
   - [https://turanar.github.io/stellaris-tech-tree/vanilla/index.html](https://turanar.github.io/stellaris-tech-tree/vanilla/index.html)
 
-- ADVANCED Research and Technology Mechanics | Stellaris 2.1 Guide 
+- ADVANCED Research and Technology Mechanics - Stellaris 2.1 Guide 
   - [https://www.youtube.com/watch?v=xUBrWEZzr30](https://www.youtube.com/watch?v=xUBrWEZzr30)
 
 - 「Stellaris」 Essential TECH and RESEARCH Guide - How to get Techs! 
   - [https://www.youtube.com/watch?v=vk6kGHeajo8](https://www.youtube.com/watch?v=vk6kGHeajo8)
 
-- How to Get the Best Techs Faster | Beelining Guide | Stellaris 2.1 
+- How to Get the Best Techs Faster - Beelining Guide - Stellaris 2.1 
   - [https://www.youtube.com/watch?v=QnYLvzLmOy4](https://www.youtube.com/watch?v=QnYLvzLmOy4)
 
 - Paradox Interactive Forums - A guide to technology beelining
   - [https://forum.paradoxplaza.com/forum/threads/a-guide-to-technology-beelining.1090197/](https://forum.paradoxplaza.com/forum/threads/a-guide-to-technology-beelining.1090197/)
+
+
+## Strategy Guides
+
+- **Technocracy** build:
+  - [https://www.youtube.com/watch?v=i3iDYYyQX2M](https://www.youtube.com/watch?v=i3iDYYyQX2M)
+
+- **Relic servitor** build:
+  - [https://www.youtube.com/watch?v=oLJd_hvjhiQ](https://www.youtube.com/watch?v=oLJd_hvjhiQ)
+
+- **Psionic rush** build:
+  - [https://www.youtube.com/watch?v=8S6VfN2WVkY](https://www.youtube.com/watch?v=8S6VfN2WVkY)
+
+- **Tech swarm** build:
+  - [https://www.youtube.com/watch?v=J3WOvXPvTM4](https://www.youtube.com/watch?v=J3WOvXPvTM4)
 
 
 ## Other guides
@@ -93,16 +98,12 @@
   - [https://steamcommunity.com/sharedfiles/filedetails/?id=705465925](https://steamcommunity.com/sharedfiles/filedetails/?id=705465925)
 
 
-## Strategy Guides
+## Patch notes
 
-- **Technocracy** build:
-  - [https://www.youtube.com/watch?v=i3iDYYyQX2M](https://www.youtube.com/watch?v=i3iDYYyQX2M)
+### Patch 2.8
+- [https://stellaris.paradoxwikis.com/Patch_2.8](https://stellaris.paradoxwikis.com/Patch_2.8)
+- [https://www.youtube.com/watch?v=nVq2DFAod00](https://www.youtube.com/watch?v=nVq2DFAod00)
 
-- **Relic servitor** build:
-  - [https://www.youtube.com/watch?v=oLJd_hvjhiQ](https://www.youtube.com/watch?v=oLJd_hvjhiQ)
-
-- **Psionic rush** build:
-  - [https://www.youtube.com/watch?v=8S6VfN2WVkY](https://www.youtube.com/watch?v=8S6VfN2WVkY)
-
-- **Tech swarm** build:
-  - [https://www.youtube.com/watch?v=J3WOvXPvTM4](https://www.youtube.com/watch?v=J3WOvXPvTM4)
+### Patch 2.7
+- [https://stellaris.paradoxwikis.com/Patch_2.7](https://stellaris.paradoxwikis.com/Patch_2.7)
+- [https://www.youtube.com/watch?v=GtjrbPxqRGU](https://www.youtube.com/watch?v=GtjrbPxqRGU)
