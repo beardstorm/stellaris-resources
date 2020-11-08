@@ -15,48 +15,59 @@
 
 ## Civic guides
 
+- Civics Tier List - **Standard Empires** (Stefan Anon): [https://youtu.be/bNdHs4LB1lw](https://youtu.be/bNdHs4LB1lw)
+
+- Civics Tier List - **Hive Mind** (Stefan Anon): [https://youtu.be/LQ9d7H2uZF4](https://youtu.be/LQ9d7H2uZF4)
+
+- Civics Tier List - **Machine Empire** (Stefan Anon): [https://youtu.be/eYos5ew2qqY](https://youtu.be/eYos5ew2qqY)
+
+- Civics Tier List - **Megacorp** (Stefan Anon): [https://youtu.be/roho0r8PGkw](https://youtu.be/roho0r8PGkw)
+
 - [Stefan's Comprehensive Civics Tier List 2.6.2](https://cdn.discordapp.com/attachments/598211045332484148/692818626193129504/Ultimate_Tier_List_Federations_III.png)
-
-- 「Stellaris」 Civics Tier List for **Standard Empires** - Ultimate Tierlists [1/8] 
-  - [https://www.youtube.com/watch?v=bNdHs4LB1lw](https://www.youtube.com/watch?v=bNdHs4LB1lw)
-
-- 「Stellaris」 **Hive Mind** Civics Tier List - Ultimate Tierlists [2/8] 
-  - [https://www.youtube.com/watch?v=LQ9d7H2uZF4](https://www.youtube.com/watch?v=LQ9d7H2uZF4)
-
-- 「Stellaris」 **Machine Empire** Civics Tier List - Ultimate Tierlists [3/8] 
-  - [https://www.youtube.com/watch?v=eYos5ew2qqY](https://www.youtube.com/watch?v=eYos5ew2qqY)
-
-- 「Stellaris」 **Megacorp** Civics Tier List - Ultimate Tierlists [4/8]
-  - [https://www.youtube.com/watch?v=roho0r8PGkw](https://www.youtube.com/watch?v=roho0r8PGkw)
 
 
 ## Traits guides
 
-- https://cdn.discordapp.com/attachments/598211045332484148/709190717683138650/Traits_Feds_Complete.png
+- Traits Tier List - **Organics** (Stefan Anon): [https://youtu.be/-VrM722vlnU](https://youtu.be/-VrM722vlnU)
 
-- 「Stellaris」 Traits Tier List for **Organics** - Ultimate Tierlists [7/8] 
-  - [https://www.youtube.com/watch?v=-VrM722vlnU](https://www.youtube.com/watch?v=-VrM722vlnU)
+- Traits Tier List - **Machines & Robots** (Stefan Anon): [https://youtu.be/tE3G3pKodWI](https://youtu.be/tE3G3pKodWI)
 
-- 「Stellaris」 Traits Tier List for **Machines & Robots** - Ultimate Tierlists [8/8] 
-  - [https://www.youtube.com/watch?v=tE3G3pKodWI](https://www.youtube.com/watch?v=tE3G3pKodWI)
+- [Stefan's Comprehensive Traits Tier List 2.7.1](https://cdn.discordapp.com/attachments/598211045332484148/709190717683138650/Traits_Feds_Complete.png)
 
 
 ## Technology guides
+  
+- Essential TECH and RESEARCH Guide - How to get Techs! (Stefan Anon): [https://youtu.be/vk6kGHeajo8](https://youtu.be/vk6kGHeajo8)
+
+- ADVANCED Research and Technology Mechanics (Possibly Outdated) (Stefan Anon): [https://youtu.be/xUBrWEZzr30](https://youtu.be/xUBrWEZzr30)
+
+- How to Get the Best Techs Faster - Beelining Guide (Possibly Outdated) (Stefan Anon): [https://youtu.be/QnYLvzLmOy4](https://youtu.be/QnYLvzLmOy4)
 
 - Interactive technology trees:
   - [https://turanar.github.io/stellaris-tech-tree/vanilla/index.html](https://turanar.github.io/stellaris-tech-tree/vanilla/index.html)
-
-- ADVANCED Research and Technology Mechanics - Stellaris 2.1 Guide 
-  - [https://www.youtube.com/watch?v=xUBrWEZzr30](https://www.youtube.com/watch?v=xUBrWEZzr30)
-
-- 「Stellaris」 Essential TECH and RESEARCH Guide - How to get Techs! 
-  - [https://www.youtube.com/watch?v=vk6kGHeajo8](https://www.youtube.com/watch?v=vk6kGHeajo8)
-
-- How to Get the Best Techs Faster - Beelining Guide - Stellaris 2.1 
-  - [https://www.youtube.com/watch?v=QnYLvzLmOy4](https://www.youtube.com/watch?v=QnYLvzLmOy4)
-
+  
 - Paradox Interactive Forums - A guide to technology beelining
   - [https://forum.paradoxplaza.com/forum/threads/a-guide-to-technology-beelining.1090197/](https://forum.paradoxplaza.com/forum/threads/a-guide-to-technology-beelining.1090197/)
+
+
+## Other guides
+
+- Origins Power Tier List Pt.1 (Stefan Anon): [https://youtu.be/xg1dRRd38UQ](https://youtu.be/xg1dRRd38UQ)
+	
+- Origins Power Tier List Pt.2 (Stefan Anon): [https://youtu.be/O049ES7OfHo](https://youtu.be/O049ES7OfHo)
+	
+- Fleet Design Guide - All Ship Builds! (Stefan Anon): [https://youtu.be/jzUmDKpJ7FA](https://youtu.be/jzUmDKpJ7FA)
+	
+- Trade Tutorial (ColorsFade): [https://youtu.be/75yaV1I8a1o](https://youtu.be/75yaV1I8a1o)
+	
+- Newbie Tutorial for WAR (ColorsFate): [https://youtu.be/WhusI0HYzBQ](https://youtu.be/WhusI0HYzBQ)
+	
+- Planetary Management tutorial (for Newbies) (ColorsFade): [https://youtu.be/GkQF_RLdLwk](https://youtu.be/GkQF_RLdLwk)
+
+- 10 Tips To Improve Your Economy - Advanced Min-Max (Stefan Anon): [https://youtu.be/n8R1LMj1CxI](https://youtu.be/n8R1LMj1CxI)
+	
+- Steam Community :: Guide :: Combat and Ship Design: A Comprensive Guide
+  - [https://steamcommunity.com/sharedfiles/filedetails/?id=705465925](https://steamcommunity.com/sharedfiles/filedetails/?id=705465925)
 
 
 ## Strategy Guides
@@ -72,30 +83,6 @@
 
 - **Tech swarm** build:
   - [https://www.youtube.com/watch?v=J3WOvXPvTM4](https://www.youtube.com/watch?v=J3WOvXPvTM4)
-
-
-## Other guides
-
-- 「Stellaris」 Origins Power Tier List Pt.1 - Ultimate Tierlists [5/8] 
-  - [https://www.youtube.com/watch?v=xg1dRRd38UQ](https://www.youtube.com/watch?v=xg1dRRd38UQ)
-	
-- 「Stellaris」 Origins Power Tier List Pt.2 - Ultimate Tierlists [6/8] 
-  - [https://www.youtube.com/watch?v=O049ES7OfHo](https://www.youtube.com/watch?v=O049ES7OfHo)
-	
-- 「Stellaris」 Fleet Design Guide - All Ship Builds! 
-  - [https://www.youtube.com/watch?v=jzUmDKpJ7FA](https://www.youtube.com/watch?v=jzUmDKpJ7FA)
-	
-- Stellaris Trade Tutorial 
-  - [https://www.youtube.com/watch?v=75yaV1I8a1o](https://www.youtube.com/watch?v=75yaV1I8a1o)
-	
-- Stellaris Newbie Tutorial for WAR 
-  - [https://www.youtube.com/watch?v=WhusI0HYzBQ](https://www.youtube.com/watch?v=WhusI0HYzBQ)
-	
-- STELLARIS: PLANETARY MANAGEMENT TUTORIAL (for Newbies) 
-  - [https://www.youtube.com/watch?v=GkQF_RLdLwk](https://www.youtube.com/watch?v=GkQF_RLdLwk)
-	
-- Steam Community :: Guide :: Combat and Ship Design: A Comprensive Guide
-  - [https://steamcommunity.com/sharedfiles/filedetails/?id=705465925](https://steamcommunity.com/sharedfiles/filedetails/?id=705465925)
 
 
 ## Patch notes
