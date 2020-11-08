@@ -15,22 +15,22 @@
 
 ## Civic guides
 
-- Civics Tier List - **Standard Empires** (Stefan Anon): [https://youtu.be/bNdHs4LB1lw](https://youtu.be/bNdHs4LB1lw)
+### Civics Tier List (Stefan Anon)
 
-- Civics Tier List - **Hive Mind** (Stefan Anon): [https://youtu.be/LQ9d7H2uZF4](https://youtu.be/LQ9d7H2uZF4)
-
-- Civics Tier List - **Machine Empire** (Stefan Anon): [https://youtu.be/eYos5ew2qqY](https://youtu.be/eYos5ew2qqY)
-
-- Civics Tier List - **Megacorp** (Stefan Anon): [https://youtu.be/roho0r8PGkw](https://youtu.be/roho0r8PGkw)
+| **Standard Empires** | **Hive Mind** | **Machine Empire** | **Megacorp** |
+|:-:|:-:|:-:|:-:|
+![https://youtu.be/bNdHs4LB1lw](https://i.ytimg.com/vi/bNdHs4LB1lw/default.jpg)|![https://youtu.be/LQ9d7H2uZF4](https://i.ytimg.com/vi/LQ9d7H2uZF4/default.jpg)|![https://youtu.be/eYos5ew2qqY](https://i.ytimg.com/vi/eYos5ew2qqY/default.jpg)|![https://youtu.be/roho0r8PGkw](https://i.ytimg.com/vi/roho0r8PGkw/default.jpg)|
 
 - [Stefan's Comprehensive Civics Tier List 2.6.2](https://cdn.discordapp.com/attachments/598211045332484148/692818626193129504/Ultimate_Tier_List_Federations_III.png)
 
 
 ## Traits guides
 
-- Traits Tier List - **Organics** (Stefan Anon): [https://youtu.be/-VrM722vlnU](https://youtu.be/-VrM722vlnU)
+### Traits Tier List (Stefan Anon)
 
-- Traits Tier List - **Machines & Robots** (Stefan Anon): [https://youtu.be/tE3G3pKodWI](https://youtu.be/tE3G3pKodWI)
+| **Organics** | **Machines & Robots** |
+|:-:|:-:|
+|![https://youtu.be/-VrM722vlnU](https://i.ytimg.com/vi/-VrM722vlnU/default.jpg)|![https://youtu.be/tE3G3pKodWI](https://i.ytimg.com/vi/tE3G3pKodWI/default.jpg)|
 
 - [Stefan's Comprehensive Traits Tier List 2.7.1](https://cdn.discordapp.com/attachments/598211045332484148/709190717683138650/Traits_Feds_Complete.png)
 
@@ -72,17 +72,9 @@
 
 ## Strategy Guides
 
-- **Technocracy** build:
-  - [https://www.youtube.com/watch?v=i3iDYYyQX2M](https://www.youtube.com/watch?v=i3iDYYyQX2M)
-
-- **Relic servitor** build:
-  - [https://www.youtube.com/watch?v=oLJd_hvjhiQ](https://www.youtube.com/watch?v=oLJd_hvjhiQ)
-
-- **Psionic rush** build:
-  - [https://www.youtube.com/watch?v=8S6VfN2WVkY](https://www.youtube.com/watch?v=8S6VfN2WVkY)
-
-- **Tech swarm** build:
-  - [https://www.youtube.com/watch?v=J3WOvXPvTM4](https://www.youtube.com/watch?v=J3WOvXPvTM4)
+| **Technocracy** build | **Relic servitor** build | **Psionic rush** build | **Tech swarm** build |
+|:-:|:-:|:-:|:-:|
+|![https://www.youtube.com/watch?v=i3iDYYyQX2M](https://i.ytimg.com/vi/i3iDYYyQX2M/default.jpg)|![https://www.youtube.com/watch?v=oLJd_hvjhiQ](https://i.ytimg.com/vi/oLJd_hvjhiQ/default.jpg)|![https://www.youtube.com/watch?v=8S6VfN2WVkY](https://i.ytimg.com/vi/8S6VfN2WVkY/default.jpg)|![https://www.youtube.com/watch?v=J3WOvXPvTM4](https://i.ytimg.com/vi/J3WOvXPvTM4/default.jpg)|
 
 
 ## Patch notes
