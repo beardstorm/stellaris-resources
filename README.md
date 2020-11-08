@@ -19,7 +19,7 @@
 
 | **Standard Empires** | **Hive Mind** | **Machine Empire** | **Megacorp** |
 |:-:|:-:|:-:|:-:|
-![https://youtu.be/bNdHs4LB1lw](https://i.ytimg.com/vi/bNdHs4LB1lw/default.jpg)|![https://youtu.be/LQ9d7H2uZF4](https://i.ytimg.com/vi/LQ9d7H2uZF4/default.jpg)|![https://youtu.be/eYos5ew2qqY](https://i.ytimg.com/vi/eYos5ew2qqY/default.jpg)|![https://youtu.be/roho0r8PGkw](https://i.ytimg.com/vi/roho0r8PGkw/default.jpg)|
+[![](https://i.ytimg.com/vi/bNdHs4LB1lw/default.jpg)](https://youtu.be/bNdHs4LB1lw)|[![](https://i.ytimg.com/vi/LQ9d7H2uZF4/default.jpg)](https://youtu.be/LQ9d7H2uZF4)|[![](https://i.ytimg.com/vi/eYos5ew2qqY/default.jpg)](https://youtu.be/eYos5ew2qqY)|[![](https://i.ytimg.com/vi/roho0r8PGkw/default.jpg)](https://youtu.be/roho0r8PGkw)|
 
 - [Stefan's Comprehensive Civics Tier List 2.6.2](https://cdn.discordapp.com/attachments/598211045332484148/692818626193129504/Ultimate_Tier_List_Federations_III.png)
 
@@ -30,7 +30,7 @@
 
 | **Organics** | **Machines & Robots** |
 |:-:|:-:|
-|![https://youtu.be/-VrM722vlnU](https://i.ytimg.com/vi/-VrM722vlnU/default.jpg)|![https://youtu.be/tE3G3pKodWI](https://i.ytimg.com/vi/tE3G3pKodWI/default.jpg)|
+|[![](https://i.ytimg.com/vi/-VrM722vlnU/default.jpg)](https://youtu.be/-VrM722vlnU)|[![](https://i.ytimg.com/vi/tE3G3pKodWI/default.jpg)](https://youtu.be/tE3G3pKodWI)|
 
 - [Stefan's Comprehensive Traits Tier List 2.7.1](https://cdn.discordapp.com/attachments/598211045332484148/709190717683138650/Traits_Feds_Complete.png)
 
@@ -74,15 +74,15 @@
 
 | **Technocracy** build | **Relic servitor** build | **Psionic rush** build | **Tech swarm** build |
 |:-:|:-:|:-:|:-:|
-|![https://www.youtube.com/watch?v=i3iDYYyQX2M](https://i.ytimg.com/vi/i3iDYYyQX2M/default.jpg)|![https://www.youtube.com/watch?v=oLJd_hvjhiQ](https://i.ytimg.com/vi/oLJd_hvjhiQ/default.jpg)|![https://www.youtube.com/watch?v=8S6VfN2WVkY](https://i.ytimg.com/vi/8S6VfN2WVkY/default.jpg)|![https://www.youtube.com/watch?v=J3WOvXPvTM4](https://i.ytimg.com/vi/J3WOvXPvTM4/default.jpg)|
+|[![](https://i.ytimg.com/vi/i3iDYYyQX2M/default.jpg)](https://youtu.be/i3iDYYyQX2M)|[![](https://i.ytimg.com/vi/oLJd_hvjhiQ/default.jpg)](https://youtu.be/oLJd_hvjhiQ)|[![](https://i.ytimg.com/vi/8S6VfN2WVkY/default.jpg)](https://youtu.be/8S6VfN2WVkY)|[![](https://i.ytimg.com/vi/J3WOvXPvTM4/default.jpg)](https://youtu.be/J3WOvXPvTM4)|
 
 
 ## Patch notes
 
 ### Patch 2.8
+- 2.8 Update in a Nutshell - Performance, AI, and Necroids! (Stefan Anon): [https://youtu.be/nVq2DFAod00](https://youtu.be/nVq2DFAod00)
 - [https://stellaris.paradoxwikis.com/Patch_2.8](https://stellaris.paradoxwikis.com/Patch_2.8)
-- [https://www.youtube.com/watch?v=nVq2DFAod00](https://www.youtube.com/watch?v=nVq2DFAod00)
 
 ### Patch 2.7
+- 2.7 Update In A Nutshell - Quality of Life! (Stefan Anon) [:https://youtu.be/GtjrbPxqRGU](https://youtu.be/GtjrbPxqRGU)
 - [https://stellaris.paradoxwikis.com/Patch_2.7](https://stellaris.paradoxwikis.com/Patch_2.7)
-- [https://www.youtube.com/watch?v=GtjrbPxqRGU](https://www.youtube.com/watch?v=GtjrbPxqRGU)
