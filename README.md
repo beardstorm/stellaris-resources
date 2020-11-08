@@ -90,11 +90,11 @@
 ## Patch notes
 
 ### Patch 2.8
+- [https://stellaris.paradoxwikis.com/Patch_2.8](https://stellaris.paradoxwikis.com/Patch_2.8)
 - 2.8 Update in a Nutshell - Performance, AI, and Necroids! (Stefan Anon): 
 <br>[https://youtu.be/nVq2DFAod00](https://youtu.be/nVq2DFAod00)
-- [https://stellaris.paradoxwikis.com/Patch_2.8](https://stellaris.paradoxwikis.com/Patch_2.8)
 
 ### Patch 2.7
+- [https://stellaris.paradoxwikis.com/Patch_2.7](https://stellaris.paradoxwikis.com/Patch_2.7)
 - 2.7 Update In A Nutshell - Quality of Life! (Stefan Anon):
 <br>[https://youtu.be/GtjrbPxqRGU](https://youtu.be/GtjrbPxqRGU)
-- [https://stellaris.paradoxwikis.com/Patch_2.7](https://stellaris.paradoxwikis.com/Patch_2.7)
