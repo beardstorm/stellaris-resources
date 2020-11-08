@@ -72,7 +72,7 @@
 
 ## Strategy Guides
 
-| **Technocracy** build | **Relic servitor** build | **Psionic rush** build | **Tech swarm** build |
+| **Technocracy** | **Relic servitor** | **Psionic rush** | **Tech swarm** |
 |:-:|:-:|:-:|:-:|
 |[![](https://i.ytimg.com/vi/i3iDYYyQX2M/default.jpg)](https://youtu.be/i3iDYYyQX2M)|[![](https://i.ytimg.com/vi/oLJd_hvjhiQ/default.jpg)](https://youtu.be/oLJd_hvjhiQ)|[![](https://i.ytimg.com/vi/8S6VfN2WVkY/default.jpg)](https://youtu.be/8S6VfN2WVkY)|[![](https://i.ytimg.com/vi/J3WOvXPvTM4/default.jpg)](https://youtu.be/J3WOvXPvTM4)|
 
