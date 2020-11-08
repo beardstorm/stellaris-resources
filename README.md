@@ -37,37 +37,47 @@
 
 ## Technology guides
   
-- Essential TECH and RESEARCH Guide - How to get Techs! (Stefan Anon): [https://youtu.be/vk6kGHeajo8](https://youtu.be/vk6kGHeajo8)
+- Essential TECH and RESEARCH Guide - How to get Techs! (Stefan Anon):
+<br>[https://youtu.be/vk6kGHeajo8](https://youtu.be/vk6kGHeajo8)
 
-- ADVANCED Research and Technology Mechanics (Possibly Outdated) (Stefan Anon): [https://youtu.be/xUBrWEZzr30](https://youtu.be/xUBrWEZzr30)
+- ADVANCED Research and Technology Mechanics (Possibly Outdated) (Stefan Anon):
+<br>[https://youtu.be/xUBrWEZzr30](https://youtu.be/xUBrWEZzr30)
 
-- How to Get the Best Techs Faster - Beelining Guide (Possibly Outdated) (Stefan Anon): [https://youtu.be/QnYLvzLmOy4](https://youtu.be/QnYLvzLmOy4)
+- How to Get the Best Techs Faster - Beelining Guide (Possibly Outdated) (Stefan Anon):
+<br>[https://youtu.be/QnYLvzLmOy4](https://youtu.be/QnYLvzLmOy4)
 
 - Interactive technology trees:
-  - [https://turanar.github.io/stellaris-tech-tree/vanilla/index.html](https://turanar.github.io/stellaris-tech-tree/vanilla/index.html)
+<br>[https://turanar.github.io/stellaris-tech-tree/vanilla/index.html](https://turanar.github.io/stellaris-tech-tree/vanilla/index.html)
   
-- Paradox Interactive Forums - A guide to technology beelining
-  - [https://forum.paradoxplaza.com/forum/threads/a-guide-to-technology-beelining.1090197/](https://forum.paradoxplaza.com/forum/threads/a-guide-to-technology-beelining.1090197/)
+- Paradox Interactive Forums - A guide to technology beelining:
+<br>[https://forum.paradoxplaza.com/forum/threads/a-guide-to-technology-beelining.1090197/](https://forum.paradoxplaza.com/forum/threads/a-guide-to-technology-beelining.1090197/)
 
 
 ## Other guides
 
-- Origins Power Tier List Pt.1 (Stefan Anon): [https://youtu.be/xg1dRRd38UQ](https://youtu.be/xg1dRRd38UQ)
+- Origins Power Tier List Pt.1 (Stefan Anon): 
+<br> [https://youtu.be/xg1dRRd38UQ](https://youtu.be/xg1dRRd38UQ)
 	
-- Origins Power Tier List Pt.2 (Stefan Anon): [https://youtu.be/O049ES7OfHo](https://youtu.be/O049ES7OfHo)
+- Origins Power Tier List Pt.2 (Stefan Anon):
+<br> [https://youtu.be/O049ES7OfHo](https://youtu.be/O049ES7OfHo)
 	
-- Fleet Design Guide - All Ship Builds! (Stefan Anon): [https://youtu.be/jzUmDKpJ7FA](https://youtu.be/jzUmDKpJ7FA)
+- Fleet Design Guide - All Ship Builds! (Stefan Anon):
+<br>[https://youtu.be/jzUmDKpJ7FA](https://youtu.be/jzUmDKpJ7FA)
 	
-- Trade Tutorial (ColorsFade): [https://youtu.be/75yaV1I8a1o](https://youtu.be/75yaV1I8a1o)
+- Trade Tutorial (ColorsFade): 
+<br>[https://youtu.be/75yaV1I8a1o](https://youtu.be/75yaV1I8a1o)
 	
-- Newbie Tutorial for WAR (ColorsFate): [https://youtu.be/WhusI0HYzBQ](https://youtu.be/WhusI0HYzBQ)
+- Newbie Tutorial for WAR (ColorsFate):
+<br>[https://youtu.be/WhusI0HYzBQ](https://youtu.be/WhusI0HYzBQ)
 	
-- Planetary Management tutorial (for Newbies) (ColorsFade): [https://youtu.be/GkQF_RLdLwk](https://youtu.be/GkQF_RLdLwk)
+- Planetary Management tutorial (for Newbies) (ColorsFade):
+<br>[https://youtu.be/GkQF_RLdLwk](https://youtu.be/GkQF_RLdLwk)
 
-- 10 Tips To Improve Your Economy - Advanced Min-Max (Stefan Anon): [https://youtu.be/n8R1LMj1CxI](https://youtu.be/n8R1LMj1CxI)
+- 10 Tips To Improve Your Economy - Advanced Min-Max (Stefan Anon):
+<br>[https://youtu.be/n8R1LMj1CxI](https://youtu.be/n8R1LMj1CxI)
 	
-- Steam Community :: Guide :: Combat and Ship Design: A Comprensive Guide
-  - [https://steamcommunity.com/sharedfiles/filedetails/?id=705465925](https://steamcommunity.com/sharedfiles/filedetails/?id=705465925)
+- Steam Community :: Guide :: Combat and Ship Design: A Comprensive Guide:
+<br>[https://steamcommunity.com/sharedfiles/filedetails/?id=705465925](https://steamcommunity.com/sharedfiles/filedetails/?id=705465925)
 
 
 ## Strategy Guides
@@ -80,9 +90,11 @@
 ## Patch notes
 
 ### Patch 2.8
-- 2.8 Update in a Nutshell - Performance, AI, and Necroids! (Stefan Anon): [https://youtu.be/nVq2DFAod00](https://youtu.be/nVq2DFAod00)
+- 2.8 Update in a Nutshell - Performance, AI, and Necroids! (Stefan Anon): 
+<br>[https://youtu.be/nVq2DFAod00](https://youtu.be/nVq2DFAod00)
 - [https://stellaris.paradoxwikis.com/Patch_2.8](https://stellaris.paradoxwikis.com/Patch_2.8)
 
 ### Patch 2.7
-- 2.7 Update In A Nutshell - Quality of Life! (Stefan Anon) [:https://youtu.be/GtjrbPxqRGU](https://youtu.be/GtjrbPxqRGU)
+- 2.7 Update In A Nutshell - Quality of Life! (Stefan Anon):
+<br>[https://youtu.be/GtjrbPxqRGU](https://youtu.be/GtjrbPxqRGU)
 - [https://stellaris.paradoxwikis.com/Patch_2.7](https://stellaris.paradoxwikis.com/Patch_2.7)
