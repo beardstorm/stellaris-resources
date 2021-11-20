@@ -19,7 +19,9 @@
 
 | **Standard Empires** | **Hive Mind** | **Machine Empire** | **Megacorp** |
 |:-:|:-:|:-:|:-:|
-[![](https://i.ytimg.com/vi/bNdHs4LB1lw/default.jpg)](https://youtu.be/bNdHs4LB1lw)|[![](https://i.ytimg.com/vi/LQ9d7H2uZF4/default.jpg)](https://youtu.be/LQ9d7H2uZF4)|[![](https://i.ytimg.com/vi/eYos5ew2qqY/default.jpg)](https://youtu.be/eYos5ew2qqY)|[![](https://i.ytimg.com/vi/roho0r8PGkw/default.jpg)](https://youtu.be/roho0r8PGkw)|
+[![](https://i.ytimg.com/vi/bNdHs4LB1lw/default.jpg)](https://www.youtube.com/watch?v=JBVMfT64OgQ&t=54s)|[![](https://i.ytimg.com/vi/LQ9d7H2uZF4/default.jpg)](https://www.youtube.com/watch?v=JBVMfT64OgQ&t=1104s)|[![](https://i.ytimg.com/vi/eYos5ew2qqY/default.jpg)](https://www.youtube.com/watch?v=JBVMfT64OgQ&t=1233s)|[![](https://i.ytimg.com/vi/roho0r8PGkw/default.jpg)](https://www.youtube.com/watch?v=JBVMfT64OgQ&t=1428s)|
+
+- [Stefan's Comprehensive Civics Tier List 3.1.2](https://cdn.discordapp.com/attachments/911677927341572187/911678068039495680/stefans-comprehensive-civics-tier-list-3.1.2.png)
 
 - [Stefan's Comprehensive Civics Tier List 2.6.2](https://cdn.discordapp.com/attachments/598211045332484148/692818626193129504/Ultimate_Tier_List_Federations_III.png)
 
@@ -28,11 +30,7 @@
 
 ### Traits Tier List (Stefan Anon)
 
-| **Organics** | **Machines & Robots** |
-|:-:|:-:|
-|[![](https://i.ytimg.com/vi/-VrM722vlnU/default.jpg)](https://youtu.be/-VrM722vlnU)|[![](https://i.ytimg.com/vi/tE3G3pKodWI/default.jpg)](https://youtu.be/tE3G3pKodWI)|
-
-- [Stefan's Comprehensive Traits Tier List 2.7.1](https://cdn.discordapp.com/attachments/598211045332484148/709190717683138650/Traits_Feds_Complete.png)
+- [Stefan's Comprehensive Traits Tier List 3.1.2](https://www.dropbox.com/s/owae05vfqm8yv3u/Traits%20Tier%20List%2031.png)
 
 
 ## Technology guides
@@ -55,11 +53,17 @@
 
 ## Other guides
 
-- Origins Power Tier List Pt.1 (Stefan Anon): 
-<br> [https://youtu.be/xg1dRRd38UQ](https://youtu.be/xg1dRRd38UQ)
+- Origins Tier List 3.0 - All Origins Explained! (Stefan Anon): 
+<br> [https://youtu.be/gg45JnH7ipc](https://youtu.be/gg45JnH7ipc)
+
+- Traditions Guide - What to Choose and When! (Stefan Anon): 
+<br> [https://youtu.be/ENEF5-LucnY](https://youtu.be/ENEF5-LucnY)
 	
-- Origins Power Tier List Pt.2 (Stefan Anon):
-<br> [https://youtu.be/O049ES7OfHo](https://youtu.be/O049ES7OfHo)
+- Ascension Perk Tier List 3.0 - All Perks Explained! (Stefan Anon):
+<br>[https://youtu.be/18x3G6ffULo](https://youtu.be/18x3G6ffULo)
+	
+- Pop Growth Mechanics Explained - 3.0 Nemesis (Stefan Anon):
+<br>[https://youtu.be/5wxnkO-vtD0](https://youtu.be/5wxnkO-vtD0)
 	
 - Fleet Design Guide - All Ship Builds! (Stefan Anon):
 <br>[https://youtu.be/jzUmDKpJ7FA](https://youtu.be/jzUmDKpJ7FA)
@@ -87,10 +91,25 @@
 |[![](https://i.ytimg.com/vi/i3iDYYyQX2M/default.jpg)](https://youtu.be/i3iDYYyQX2M)|[![](https://i.ytimg.com/vi/oLJd_hvjhiQ/default.jpg)](https://youtu.be/oLJd_hvjhiQ)|[![](https://i.ytimg.com/vi/8S6VfN2WVkY/default.jpg)](https://youtu.be/8S6VfN2WVkY)|[![](https://i.ytimg.com/vi/J3WOvXPvTM4/default.jpg)](https://youtu.be/J3WOvXPvTM4)|
 
 
+## Other Resources
+
+- Stellaris Random Empire Generator
+<br>[http://stellaris.timango.com](http://stellaris.timango.com)
+
+- Empire Name Generator
+<br>[https://www.scifiideas.com/empire-name-generator/](https://www.scifiideas.com/empire-name-generator/)
+
+
 ## Patch notes
 
-### Patch 2.8
-- [https://stellaris.paradoxwikis.com/Patch_2.8](https://stellaris.paradoxwikis.com/Patch_2.8)
+### Patch 3.0.X
+- [https://stellaris.paradoxwikis.com/Patch_3.0.X](https://stellaris.paradoxwikis.com/Patch_3.0.X)
+
+- Everything New in Nemesis Explained - 3.0 & 3.0.1 Patch Notes (Stefan Anon):
+<br>[https://youtu.be/0qTFpNsKRY4](https://youtu.be/0qTFpNsKRY4)
+
+### Patch 2.8.X
+- [https://stellaris.paradoxwikis.com/Patch_2.8.X](https://stellaris.paradoxwikis.com/Patch_2.8.X)
 
 - 2.8 Update in a Nutshell - Performance, AI, and Necroids! (Stefan Anon): 
 <br>[https://youtu.be/nVq2DFAod00](https://youtu.be/nVq2DFAod00)
