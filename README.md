@@ -99,6 +99,9 @@
 - Empire Name Generator
 <br>[https://www.scifiideas.com/empire-name-generator/](https://www.scifiideas.com/empire-name-generator/)
 
+- Game settings location (Linux)
+<br>`/home/user/.local/share/Paradox Interactive/Stellaris/`
+
 
 ## Patch notes
 
